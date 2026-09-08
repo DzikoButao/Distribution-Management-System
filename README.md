@@ -19,6 +19,9 @@ A C# desktop application developed to support the management of laher bakery dis
 6. Delivery Notification
 7. Invoice & Report generation
 
- 
+The system  allows the distributor to schedule the customer orders to be fulfilled allowing the company to prevent overproduction or shortages.
 
-The system must allow the distributor to schedule the customer orders to be fulfilled allowing the company to prevent overproduction or shortages.
+
+
+
+
