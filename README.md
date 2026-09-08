@@ -7,6 +7,7 @@ A C# desktop application developed to support the management of laher bakery dis
 -  .NET
 -  Microsoft SQL Server
 -  API
+-  Twilio
 -  Visual Studio
 
 ## KEY FEATURES
